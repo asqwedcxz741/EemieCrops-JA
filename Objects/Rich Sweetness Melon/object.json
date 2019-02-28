@@ -1,0 +1,9 @@
+{
+  "Name": "Rich Sweetness Melon",
+  "Description": "A very petite type of melon.",
+  "Category": "Fruit",
+  "Edibility": 25,
+  "Price": 90,
+  "IsColored": false,
+  "Recipe": null,
+}

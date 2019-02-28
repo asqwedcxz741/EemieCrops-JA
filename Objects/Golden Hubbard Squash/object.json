@@ -1,0 +1,9 @@
+{
+  "Name": "Golden Hubbard Squash",
+  "Description": "A squash with a tear-drop shape and bright orange skin.",
+  "Category": "Vegetable",
+  "Edibility": 25,
+  "Price": 70,
+  "IsColored": false,
+  "Recipe": null,
+}

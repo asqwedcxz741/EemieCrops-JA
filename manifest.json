@@ -1,0 +1,11 @@
+{
+   "Name": "Eemie's Crops",
+   "Author": "Eemie",
+   "Description": "A collection of melons and pumpkins!",
+   "Version": "1.1.0",
+   "UniqueID": "minervamaga.JA.EemieCrops",
+   "ContentPackFor": {
+       "UniqueID": "spacechase0.JsonAssets"
+    },
+   "UpdateKeys": ["Nexus:3523"],
+}

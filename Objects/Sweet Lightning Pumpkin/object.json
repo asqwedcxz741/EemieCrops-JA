@@ -1,0 +1,9 @@
+{
+  "Name": "Sweet Lightning Pumpkin",
+  "Description": "Has a very light orange and sweet flesh.",
+  "Category": "Vegetable",
+  "Edibility": 25,
+  "Price": 85,
+  "IsColored": false,
+  "Recipe": null,
+}

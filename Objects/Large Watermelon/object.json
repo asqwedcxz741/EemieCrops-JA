@@ -1,0 +1,9 @@
+{
+  "Name": "Large Watermelon",
+  "Description": "Probably the most famous type of melon out there!",
+  "Category": "Fruit",
+  "Edibility": 25,
+  "Price": 130,
+  "IsColored": false,
+  "Recipe": null,
+}

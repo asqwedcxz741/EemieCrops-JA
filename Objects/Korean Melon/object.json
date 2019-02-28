@@ -1,0 +1,9 @@
+{
+  "Name": "Korean Melon",
+  "Description": "Imported from Korea. Its white flesh is juicy and sweet.",
+  "Category": "Fruit",
+  "Edibility": 25,
+  "Price": 75,
+  "IsColored": false,
+  "Recipe": null,
+}

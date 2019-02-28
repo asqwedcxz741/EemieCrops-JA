@@ -1,0 +1,9 @@
+{
+  "Name": "Rich Canary Melon",
+  "Description": "This melon has a distinctively sweet flavor.",
+  "Category": "Fruit",
+  "Edibility": 25,
+  "Price": 35,
+  "IsColored": false,
+  "Recipe": null,
+}

@@ -1,0 +1,9 @@
+{
+  "Name": "Crookneck Squash",
+  "Description": "This squash has a very distinctive shape.",
+  "Category": "Vegetable",
+  "Edibility": 25,
+  "Price": 80,
+  "IsColored": false,
+  "Recipe": null,
+}
