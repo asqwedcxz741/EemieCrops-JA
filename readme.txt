@@ -1,4 +1,4 @@
-Eemie's Crops for Json Assets - Version 1.1.0
+Eemie's Crops for Json Assets - Version 1.2.0
 Adds some new crops to the game.
 
 :: Required Mods::
@@ -24,3 +24,5 @@ Ping me (@minervamaga#7344) on the SDV discord (https://discord.gg/stardewvalley
 Pathoschild for SMAPI (https://www.nexusmods.com/stardewvalley/users/1552317) and Spacechase for Json Assets (https://www.nexusmods.com/stardewvalley/users/34250790), both of which make this mod possible.
 
 Eemiestardew for the original mod (https://www.nexusmods.com/stardewvalley/mods/1792)
+
+ailer for the Spanish translation! (https://forums.nexusmods.com/index.php?/user/41611600-ailer/)

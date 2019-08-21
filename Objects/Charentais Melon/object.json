@@ -1,9 +1,0 @@
-{
-  "Name": "Charentais Melon",
-  "Description": "A type of cantaloupe, but with a more fragrant smell.",
-  "Category": "Fruit",
-  "Edibility": 25,
-  "Price": 50,
-  "IsColored": false,
-  "Recipe": null,
-}

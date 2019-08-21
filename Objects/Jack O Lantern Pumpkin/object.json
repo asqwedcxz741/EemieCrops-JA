@@ -1,9 +1,0 @@
-{
-  "Name": "Jack O Lantern Pumpkin",
-  "Description": "A very large type of pumpkin!",
-  "Category": "Vegetable",
-  "Edibility": 25,
-  "Price": 100,
-  "IsColored": false,
-  "Recipe": null,
-}

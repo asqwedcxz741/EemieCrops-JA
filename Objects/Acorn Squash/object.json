@@ -1,9 +1,0 @@
-{
-  "Name": "Acorn Squash",
-  "Description": "Commonly mistaken for a gourd.",
-  "Category": "Vegetable",
-  "Edibility": 35,
-  "Price": 25,
-  "IsColored": false,
-  "Recipe": null,
-}

@@ -1,0 +1,11 @@
+{
+  "Name": "Cantaloupe Melon",
+  "Description": "Delicious in a dessert with ice cream or custard.",
+  "Category": "Fruit",
+  "Edibility": 25,
+  "Price": 50,
+  "IsColored": false,
+  "Recipe": null,
+  "NameLocalization": { "es": "Melón cantaloupe" },
+  "DescriptionLocalization": { "es": "Delicioso con helado o en un postre como crema pastelera." },
+}
