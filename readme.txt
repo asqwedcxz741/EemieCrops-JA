@@ -1,4 +1,4 @@
-Eemie's Crops for Json Assets - Version 1.2.0
+Eemie's Crops for Json Assets - Version 1.3.0
 Adds some new crops to the game.
 
 :: Required Mods::
@@ -16,7 +16,9 @@ Json Assets (https://www.nexusmods.com/stardewvalley/mods/1720)
 4. You're done! Run the game.
 
 :: Contact Info::
-Post a comment on the Nexus page for this mod (https://www.nexusmods.com/stardewvalley/mods/3523)
+Post a comment on the page for this mod here (https://www.nexusmods.com/stardewvalley/mods/3523) or here (https://www.moddrop.com/stardew-valley/mods/580729-eemies-crops-for-json-assets-updated)
+
+Post an issue on the Github repository! (https://github.com/minervamaga/)
 
 Ping me (@minervamaga#7344) on the SDV discord (https://discord.gg/stardewvalley)
 
@@ -26,3 +28,5 @@ Pathoschild for SMAPI (https://www.nexusmods.com/stardewvalley/users/1552317) an
 Eemiestardew for the original mod (https://www.nexusmods.com/stardewvalley/mods/1792)
 
 ailer for the Spanish translation! (https://forums.nexusmods.com/index.php?/user/41611600-ailer/)
+
+guccimochi for the Korean translation! (http://www.nexusmods.com/users/59574986)
