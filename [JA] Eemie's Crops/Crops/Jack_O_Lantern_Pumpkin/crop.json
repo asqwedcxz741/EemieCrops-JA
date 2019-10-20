@@ -21,12 +21,30 @@
     "SeedPurchasePrice": 80,
 
     "SeedNameLocalization": { 
-                                "es": "Semillas de calabaza linterna O Jack",
-                                "ko": "으스스한 잭오랜턴 호박"
-                            },
+        "es": "Semillas de calabaza linterna O Jack",
+        "ko": "으스스한 잭오랜턴 호박",
+        /*"de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "",*/
+    },
     "SeedDescriptionLocalization": { 
-                                "es": "Plantalas en otoño. Toma 13 días para madurar.",
-                                "ko": "가을에 심는다. 자라기까지 13 일이 걸린다."
-                            }
+        "es": "Plantalas en otoño. Toma 13 días para madurar.",
+        "ko": "가을에 심는다. 자라기까지 13 일이 걸린다.",
+        /*"de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "",*/
+    }
 
 }

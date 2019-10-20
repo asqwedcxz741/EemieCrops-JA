@@ -7,11 +7,29 @@
   "IsColored": false,
   "Recipe": null,
   "NameLocalization": { 
-  						"es": "Melón canario rico",
-  						"ko": "리치 카나리아 멜론"
-  					},
+		"es": "Melón canario rico",
+		"ko": "리치 카나리아 멜론",
+    /*"de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "",*/
+	},
   "DescriptionLocalization": { 
-  						"es": "Este melón tiene un sabor distintivamente dulce.",
-  						"ko": "이 멜론은 특유의 단맛이 난다."
-  					},
+		"es": "Este melón tiene un sabor distintivamente dulce.",
+		"ko": "이 멜론은 특유의 단맛이 난다.",
+    /*"de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "",*/
+	},
 }

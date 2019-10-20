@@ -21,12 +21,30 @@
     "SeedPurchasePrice": 100,
 
     "SeedNameLocalization": { 
-                                "es": "Semillas de sandía grande",
-                                "ko": "무등산 수박"
-                            },
+        "es": "Semillas de sandía grande",
+        "ko": "무등산 수박",
+        /*"de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "",*/
+    },
     "SeedDescriptionLocalization": { 
-                                "es": "Plantalas en verano. Toma 13 días para madurar.",
-                                "ko": "여름에 심는다. 자라기까지 13 일이 걸린다."
-                            }
+        "es": "Plantalas en verano. Toma 13 días para madurar.",
+        "ko": "여름에 심는다. 자라기까지 13 일이 걸린다.",
+        /*"de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "",*/
+    }
 
 }

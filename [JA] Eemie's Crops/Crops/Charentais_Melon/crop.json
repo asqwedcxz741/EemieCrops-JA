@@ -1,5 +1,5 @@
 {
-    "Name": "Charentais_Melon",
+    "Name": "Charentais Melon",
     "Product": "Charentais Melon",
     "SeedName": "Charentais Melon Seeds",
     "SeedDescription": "Plant these in the summer. Takes 13 days to mature.",
@@ -21,12 +21,30 @@
     "SeedPurchasePrice": 25,
 
     "SeedNameLocalization": { 
-                                "es": "Semillas de melón charentais",
-                                "ko": "샤랑테 멜론"
-                            },
+        "es": "Semillas de melón charentais",
+        "ko": "샤랑테 멜론",
+        /*"de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "",*/
+    },
     "SeedDescriptionLocalization": {
-                                "es": "Plantalas en verano. Toma 13 días para madurar.",
-                                "ko": "여름에 심는다. 자라기까지 13 일이 걸린다."
-                            }
+        "es": "Plantalas en verano. Toma 13 días para madurar.",
+        "ko": "여름에 심는다. 자라기까지 13 일이 걸린다.",
+        /*"de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "",*/
+    }
 
 }

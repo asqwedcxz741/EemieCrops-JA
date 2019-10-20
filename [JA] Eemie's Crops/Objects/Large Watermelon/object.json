@@ -7,11 +7,29 @@
   "IsColored": false,
   "Recipe": null,
   "NameLocalization": { 
-  						"es": "Sandía grande",
-  						"ko": "무등산 수박"
-  					},
+		"es": "Sandía grande",
+		"ko": "무등산 수박",
+    /*"de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "",*/
+	},
   "DescriptionLocalization": { 
-  						"es": "¡Probablemente el tipo de melón más famoso que existe!",
-  						"ko": "광주의 특산물! 무등산 수박!"
-  					},
+		"es": "¡Probablemente el tipo de melón más famoso que existe!",
+		"ko": "광주의 특산물! 무등산 수박!",
+    /*"de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "",*/
+	},
 }

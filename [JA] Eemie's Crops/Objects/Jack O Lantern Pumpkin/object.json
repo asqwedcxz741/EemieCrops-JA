@@ -7,11 +7,29 @@
   "IsColored": false,
   "Recipe": null,
   "NameLocalization": { 
-  						"es": "Calabaza linterna O Jack",
-  						"ko": "으스스한 잭오랜턴 호박"
-  					},
+		"es": "Calabaza linterna O Jack",
+		"ko": "으스스한 잭오랜턴 호박",
+    /*"de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "",*/
+	},
   "DescriptionLocalization": { 
-  						"es": "¡Un tipo muy grande de calabaza!",
-  						"ko": "아주 큰 종류의 호박!"
-  					},
+		"es": "¡Un tipo muy grande de calabaza!",
+		"ko": "아주 큰 종류의 호박!",
+    /*"de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "",*/
+	},
 }

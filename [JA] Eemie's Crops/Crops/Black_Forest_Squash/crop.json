@@ -1,5 +1,5 @@
 {
-    "Name": "Black_Forest_Squash",
+    "Name": "Black Forest Squash",
     "Product": "Black Forest Squash",
     "SeedName": "Black Forest Squash Seeds",
     "SeedDescription": "Plant these in the fall. Takes 13 days to mature.",
@@ -21,12 +21,30 @@
     "SeedPurchasePrice": 30,
 
     "SeedNameLocalization": { 
-                                "es": "Semillas de calabaza de la selva negra",
-                                "ko": "검은 숲의 호박"
-                            },
+        "es": "Semillas de calabaza de la selva negra",
+        "ko": "검은 숲의 호박",
+        /*"de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "",*/
+    },
     "SeedDescriptionLocalization": { 
-                                "es": "Plantalas en otoño. Toma 13 días para madurar.",
-                                "ko": "가을에 심는다. 자라기까지 13 일이 걸린다."
-                            }
+        "es": "Plantalas en otoño. Toma 13 días para madurar.",
+        "ko": "가을에 심는다. 자라기까지 13 일이 걸린다.",
+        /*"de": "",
+        "fr": "",
+        "hu": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "tr": "",
+        "zh": "",*/
+    }
 
 }

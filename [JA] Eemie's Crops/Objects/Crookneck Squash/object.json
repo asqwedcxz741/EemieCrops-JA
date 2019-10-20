@@ -7,11 +7,29 @@
   "IsColored": false,
   "Recipe": null,
   "NameLocalization": { 
-  						"es": "Calabaza crookneck",
-  						"ko": "굽은목 호박"
-  					},
+		"es": "Calabaza crookneck",
+		"ko": "굽은목 호박",
+    /*"de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "",*/
+	},
   "DescriptionLocalization": { 
-  						"es": "Tiene una forma muy distinta a la calabaza en general.",
-  						"ko": "이 호박은 모양이 매우 독특하다."
-  					},
+		"es": "Tiene una forma muy distinta a la calabaza en general.",
+		"ko": "이 호박은 모양이 매우 독특하다.",
+    /*"de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "",*/
+	},
 }

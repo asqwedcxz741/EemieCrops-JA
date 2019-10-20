@@ -7,11 +7,29 @@
   "IsColored": false,
   "Recipe": null,
   "NameLocalization": { 
-  						"es": "Chayote bellota",
-  						"ko": "도토리 호박"
-  					},
+		"es": "Chayote bellota",
+		"ko": "도토리 호박",
+    /*"de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "",*/
+	},
   "DescriptionLocalization": { 
-  						"es": "Comúnmente la confunden con una calabaza.",
-  						"ko": "보통 박으로 착각할 수 있다."
-  					},
+		"es": "Comúnmente la confunden con una calabaza.",
+		"ko": "보통 박으로 착각할 수 있다.",
+    /*"de": "",
+    "fr": "",
+    "hu": "",
+    "it": "",
+    "ja": "",
+    "pt": "",
+    "ru": "",
+    "tr": "",
+    "zh": "",*/
+	},
 }
