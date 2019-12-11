@@ -1,4 +1,4 @@
-Eemie's Crops for Json Assets - Version 1.3.1
+Eemie's Crops for Json Assets - Version 1.3.2
 Adds some new crops to the game.
 
 :: Required Mods::
