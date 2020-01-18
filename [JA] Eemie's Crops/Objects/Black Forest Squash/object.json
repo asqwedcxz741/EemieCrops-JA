@@ -16,8 +16,8 @@
     "ja": "",
     "pt": "",
     "ru": "",
-    "tr": "",
-    "zh": "",*/
+    "tr": "",*/
+    "zh": "黑森林南瓜",
 	},
   "DescriptionLocalization": { 
 		"es": "Con el tiempo adquieren un sabor aún más dulce.",
@@ -29,8 +29,8 @@
     "ja": "",
     "pt": "",
     "ru": "",
-    "tr": "",
-    "zh": "",*/
+    "tr": "",*/
+    "zh": "在收获并储藏几周后，它们的味道会变得更甜。",
 	},
   "ContextTags": [
     "dye_medium",

@@ -23,6 +23,7 @@
     "SeedNameLocalization": { 
         "es": "Semillas de melón canario rico",
         "ko": "리치 카나리아 멜론",
+		"zh": "金丝雀瓜种子",
         /*"de": "",
         "fr": "",
         "hu": "",
@@ -31,11 +32,12 @@
         "pt": "",
         "ru": "",
         "tr": "",
-        "zh": "",*/
+        */
     },
     "SeedDescriptionLocalization": { 
         "es": "Plantalas en verano. Toma 13 días para madurar.",
         "ko": "여름에 심는다. 자라기까지 13 일이 걸린다.",
+		"zh": "夏天播种，13天成熟。",
         /*"de": "",
         "fr": "",
         "hu": "",
@@ -44,7 +46,7 @@
         "pt": "",
         "ru": "",
         "tr": "",
-        "zh": "",*/
+        */
     }
 
 }
